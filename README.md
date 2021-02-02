@@ -59,7 +59,7 @@
        
     
 </body>
-
+</html>
 <style>
   p#destacado{
     border:solid black 1px;
@@ -83,4 +83,4 @@ li.elemento_enumeracion{
     margin-right: 600px;
 }
   </style>
-</html>
+
